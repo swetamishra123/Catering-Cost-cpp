@@ -1,5 +1,5 @@
-It looks like you've provided a C++ program for calculating the cost of catering services for an event. To create a README file for your project on GitHub, you can include 
-# Catering Cost Calculator
+
+# Catering Cost CalculatoR
 
 This is a simple C++ program that calculates the cost of catering services for an event based on the number of guests and the duration of the event. It takes into account the cost of servers and food to provide an estimate to the customer.
 
