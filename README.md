@@ -68,7 +68,7 @@ We welcome contributions from the open-source community to improve this catering
 2. Clone the forked repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/Catering-Cost-cpp.git
+   https://github.com/swetamishra123/Catering-Cost-cpp.git
    ```
 
 3. Create a new branch for your contribution:
