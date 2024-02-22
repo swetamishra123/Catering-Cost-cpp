@@ -97,5 +97,5 @@ We welcome contributions from the open-source community to improve this catering
 
 9. Your PR will be reviewed, and if it meets the project's guidelines, it will be merged.
 
-Thank you for contributing to make this project better!
+Thank you for contributing to make this project more better !
 
